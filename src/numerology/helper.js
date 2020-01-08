@@ -145,13 +145,44 @@ export class NumerologyHelper {
     const values = [
       {
         "description": "The Leader",
-        "detail": `Your name destines you to leadership. If you live up to your
-        name, you will become an outstanding character in some line of endeavor
-        during your lifetime. Your success will come through your ability to stand
-        on your own feet, think for yourself, and to individualize your character.
-        You are something of a promoter by destiny and must keep things from
-        crystallizing. Be strong, capable, intelligent, and your opportunities
-        will come to you. Live an active life. Dullness will defeat you.`
+        "detail": `Your name destines you to Leadership. You must
+        gain this position through your own initiative, independence,
+        and originality of thought and method. If you live up to your
+        name, you will become an outstanding character in some line
+        of endeavor during your lifetime. Your life is destined to be an
+        interesting one, with many odd and strange experiences; all for
+        fhe purpose of developing your will and determination. Your
+        success will come through your ability to stand on your own
+        feet, think for yourself, and to individualize your character.
+        This does not mean that you must be aggressive or dominant;
+        but instead, to be strong, self-reliant, and determined to get on
+        in the world by your own ability. Life will never let you down
+        if you use a fine, constructive will-power in overcoming obstacles
+        and meet your problems with courage and originality. Do
+        not be afraid to get off the beaten track. Just be sure your plan
+        is constructive and this will open the door to leadership and independence.
+        Teach others true leadership.\n\n
+        There will be times when you need to broaden your opportunities.
+        At such times investigate new ideas, new things and
+        original and unique activities. If you are compelled to deal with
+        old and established lines oi work, put new and original methods
+        into the undertakings. You are something of a promoter by
+        destiny and must keep things from crystallizing. Undeveloped
+        projects give you opportunity to show your initiative and executive
+        ability. If you find yourself in, or remaining in, a subordinate
+        position without hope of progress, it means that you
+        are not making a consistent effort towards self-improvement
+        or using your ideas to good advantage. Do not be different to
+        be prominent. Just be strong, capable, intelligent, and your opportunities
+        will come to you. Mix with people who are doing
+        original things and have ambition to promote and engineer the
+        causes of civilization; this will fire your ambition to use your
+        own ideas. Live an active life. Dullness will defeat you. Make
+        your home and surroundings artistic and interesting. Use your
+        natural magnetic force to attract those who will help you and
+        whom you can help. You have a fine Destiny. Keep life moving
+        onward.\n\n When seeking opportunity wear becoming shades of
+        flame, lilac, or crimson.`
       },
       {
         "description": "The Peacemaker",
@@ -163,12 +194,39 @@ export class NumerologyHelper {
         if you wish to attract the good things life has in store for
         you. In other words, you are one of Life’s “trouble shooters”
         and will be called upon constantly to pour oil on troubled waters.
+        You may not always want to do so, but you came into the
+        world with this mission to fulfill, so it must be done, not only
+        for the sake of success, but for your own peace and happiness.
+        When tnings are not moving along smoothly, try tact, diplomacy
+        and courtesy; for arbitration is one of your tools of
+        trade. Avoid falling into the struggle for existence. Bring others
+        together diplomatically; soothe, comfort, advise, counsel,
+        and help people find peace, for this will give you great personal
+        satisfaction and add to your commercial value.\n\n
         Partnerships are important to you. No matter how independent
         an executive you are in other ways, cooperation is essential
         to your success. This does not mean that you should
         depend upon others for your success, but through fraternities,
         associations, groups, and in your personal and home life, you
-        will find “sharing” a means to your own attainment. `
+        will find “sharing” a means to your own attainment.
+        Mix with people who are working for the refinement of
+        the masses and who express the cultural standards of living.
+        You have a fine power to influence people and it is a part of
+        your mission as a peacemaker to encourage others to live by
+        the higher principles of being. You are sensitive too, and should
+        appreciate how others eel, and your understanding and persuasive
+        manner give you ability to encourage and comfort
+        others. Your own home, personality, character, and way of doing
+        things should represent beauty, art, and loveliness, if at
+        any time you find yourself living in inharmonious and unhappy
+        surroundings, or there are jealousies and opposition in your
+        home or business, you should make every effort to overcome
+        this by being more cooperative and peaceful in your own actions;
+        not weak or fearful, but willing to work for the good of
+        your associates as much as for yourself. People who are interested
+        in religion, politics, banking, science, statistics, higher
+        mechanics, are in your field of opportunity. When seeking opportunity
+        wear white, salmon, gold, or garnet. `
       },
       {
         "description": "The Creative Optimist",
@@ -180,64 +238,163 @@ export class NumerologyHelper {
         alone” is equally certain in your experiences. Many people
         have lost the joy of living and it is your duty and mission in life
         to arouse their imagination and spirit, until their faith in people
-        and in friendship has been rekindled, and they can laugh again.`
+        and in friendship has been rekindled, and they can laugh
+        again. This may not always be easy for you to do, but this is a
+        part of your success and you should make every effort to live
+        up to it. You were destined to be popular, to have love, romance
+        and money, but this will come to you only as you express
+        beauty, art and inspiration in your own life. Dare to
+        laugh at troubles. Mix sincerity with joy and you cannot fail.
+        Also, if you are unable to express your ideas and character
+        along some creative and inspirational manner, you should train
+        your mind until you can do so easily and naturally. 1 his will
+        open opportunities to you which you could not gain in any
+        other way.\n\n
+        There will be times when you will need to broaden your
+        opportunities. At such times investigate some of the worldly
+        activities which are more creative, fanciful and artistic than the
+        ordinary, practical lines of endeavor. Study and engage in interests
+        which will give you more ease of expression in words
+        and feeling, whether in literature, drama, commerce, or business.
+        You have a part to play, even a career, along the lines of
+        imagination and creative undertakings. The art of words, constructively
+        used, will take you far in life. Don’t talk too much,
+        or wear your heart on your sleeve, but enjoy life and help
+        others enjoy life too. Keep optimistic and you will be the center
+        of admiring groups. Friends are important in your life and you
+        should cultivate the art of being a true friend. Mix with people
+        who have a constructive philosophy and a comeback when
+        things go wrong. Do not be afraid o the public; take an interest
+        in the opera, theatre, charity, children, all the arts and
+        crafts, religion, and all activities which amuse, entertain, and
+        inspire the people. Through these you will find help, assistance
+        and friendship and be able to do good in the world. `
       },
       {
         "description": "The Organizer",
         "detail": `You are destined by life to play the role of manager and
-        "organizer". You are a builder, and it is your mission to make things
-        permanent and lasting. You must make dreams practical and bring all
-        imagination down to earth. If you wish to get the best out of life, you
-        must try at all times to establish unity between the idea and the
-        result. "Haste makes waste" in your affairs and carlessness can be your
-        undoing. Problems through relatives may come into your life and you may
-        have to take a stand for your own rights. Do not be contrary; be willing
-        to help them, but build your own life after the pattern you feel brings
-        security for yourself and opportunity for your talents. Mix sincerity
-        with joy and you cannot fail. Also, if you are unable to express your
-        ideas and character along some creative and inspirational manner, you
-        should train your mind until you can do so easily and naturally. 1 his
-        will open opportunities to you which you could not gain in any
-        other way.  Don’t talk too much,
-        or wear your heart on your sleeve, but enjoy life and help
-        others enjoy life too. Keep optimistic and you will be the center
-        of admiring groups. Friends are important in your life and you
-        should cultivate the art of being a true friend.`
+        “organizer.” You are a builder, and it is your mission to make
+        things permanent and lasting. You must make dreams practical
+        and bring all imagination down to earth. Life will not permit
+        you to take things easy and you may meet many serious problems
+        until you become proficient in establishing system, order,
+        form, and regulation in your business and personal problems.
+        You may not always want to do this, but if you wish to get the
+        best out of life, you must try at all times to establish unity between
+        the idea and the result; for you were born to take responsibility,
+        and others will ask you for support and protection.
+        Your lasting success depends upon building from the ground
+        up regardless o the kind of work you undertake. Or, at least
+        you must strive for tangible results and give plans form and
+        body. “Haste makes waste” in your affairs and carelessness
+        can be your undoing. Any change or new plan must lead to
+        better order, management and security. You were destined
+        from birth to stand for the principles of honesty, sincerity, patience,
+        perseverance, determination and faith. Keep these for
+        your plan of life and your work will live after you. \n\n
+        There will be times when you will need to broaden your
+        opportunities. At such times, investigate undertakings which
+        have to do with buying, selling, exchange, building, engineering,
+        regulation of ceremonies, education, administration, employment,
+        and the maintaining of established order and system.
+        Even it' you deal with religion or abstract ideas, you must see
+        that they are organized for others to use. Your own success depends
+        upon your ability to establish system and order in your
+        undertakings. Mix with people who are doing practical but
+        worthwhile things. You can make lasting and helpful friends
+        among scientists, organizers, lawyers, and promoters of the
+        standards of living. Do not be careless in the selection of
+        friends. Morals are part of your charm and attraction in friendships;
+        try for a feeling of unity with all people. This will add to
+        your success and popularity. Problems through relatives may
+        come into your life and you may have to take a stand for your
+        own rights. Do not be contrary; be willing to help them, but
+        build your life after the pattern you feel is security for yourself
+        and opportunity for your talents. You must be a strong character. `
       },
       {
         "description": "The Progressive",
         "detail": `Life will bring you many experiences and a good many
         changes, some of them forced upon you, os hers of your own
-        making. You may find it hard to associate yourself perma¬
-        nently with the same people, work or undertaking, even though
-        you may want to, for your mission in life is to promote “Free¬
-        dom” and “Progress,” and to keep Life moving forward.
-        When changes come unexpectedly,
+        making. You may find it hard to associate yourself permanently
+        with the same people, work or undertaking, even though
+        you may want to, for your mission in life is to promote “Freedom”
+        and “Progress,” and to keep Life moving forward. AM
+        progress comes through change, new ideas, new methods and
+        renewal, and only by letting go of the old, can the new be realized.
+        You must learn this lesson, for you came into the world
+        to be one of those who stand for liberty for all as we 1 as for
+        the few. You must help people learn to live more fully and happily,
+        and to know for yourself that lasting happiness cannot exist
+        when the right o be free is not fully guaranteed. If your life
+        is not free, cultivate the resourcefulness and versatility which is
+        in your makeup and use your cseverness to keep up-to-date and
+        in the stream of world progress. When changes come unexpectedly,
         do not fear them or cling to the old. Accept the new and
-        make it a stepping stone to growth and greater attainment.
+        make it a stepping stone to growth and greater attainment. To
+        be free does not mean to break conventions deliberately. Progress
+        is not rebellion. Instead, it stands for enlightenment, courage,
+        ambition and willingness to learn. Keep your face turned
+        towards the light and the best there is in the world. Refuse to
+        be left behind in the race. Be a lawmaker, but combine charity
+        and tolerance with instruction.\n\n
         Your Destiny is a public one and you will find opportunity
         through people in general. You are likely to have more ihan
         one iron in the fire and must guard against scattering your energies.
         But you could lose your goal if not given frequent opportunity
         for exciting and interesting worldly contact. Broaden
         your life by going among people of all kinds, both religious
-        and Bohemian.`
+        and Bohemian. Mix with people who promote new lines of education
+        and thought. Enter into the social activities of the public.
+        Go among people who write, such as columnists, newspaper
+        writers. The legal profession gives you opportunity and nelpful
+        friends. Publicity, advertising, and all fields of selling and public
+        entertainment give you interest and development. Don’t be
+        a rolling stone gathering no moss, but be a part of what is going
+        on in the world. `
       },
       {
         "description": "The Humanitarian",
-        "detail": `Service to the world is your destiny. Duty will follow you
-        down life's pathway, at home and out in the world, but your success and
-        personal happiness depend upon how much good you can do, and upon the
-        love and sympathy you have to give to those who need it. You have an
-        artistic destiny too, and part of your life's work is to beautify the
-        world. Your ability to help humanity is very definite and sincere, and
-        you will be called upon to do so even though you might try to avoid it.
-        Don't compromise your ideals at any time. Activites which have to do
-        with art, flowers, music, gardens, furniture, interior decorating, radio,
-        theatre, building of homes, and along the lines of literature awaken
-        your own talents. You have a good earning capacity, and if you find
-        yourself without money, or drudging for others, it is because you have
-        not been generous enough in your desires for the good of others.`
+        "detail": `Service to the world is your Destiny. You are the ‘
+        humanitarian” and it is your mission in life to comfort the suffering,
+        weak, and unhappy. Duty will follow you down life’s pathway,
+        at home and out in the world, but your success and personal
+        happiness depend upon how much good you can do, and upon
+        the iove and sympathy you have to give to those who need it or
+        ask for help. You should not sacrifice your life for duty, for
+        the world looks to you to maintain its ideals of charity, service,
+        truth, and justice. You have an artistic Destiny too, and part
+        of your life’s work is to beautify this old world of ours. Hamony,
+        beauty, and the ideals of love and companionship must
+        be incorporated into everything you do if you wish to get the
+        reward of honor which your name destines you to. I ,'owers,
+        gardens, homes, nature, and mankind should spring into beauty
+        at your touch. You must keep the Golden Rule of trutn and
+        justice before the minds and hearts of people, for you are a
+        teacher too. Your ability to help the race is very definite and
+        sincere, and you will be called upon to do so even though you
+        might try to avoid it. Don’t compromise with your ideals at
+        any time. Give a helping hand when trouble knocks at another’s
+        door. Then in surprising ways, you will find yourself surrounded
+        by love, luxury, and comfort, and a happy home life
+        will crown your effort. \n\n
+        Because of your ideals and your ability to serve humanity,
+        you should join with those who are working along the same
+        lines. Religious activities, welfare work, all lines of race education,
+        especially those dealing with children and the helpless
+        give you interest and open a field of usefulness. Nurses, doctors,
+        musicians, actors, singers, poets, and dreamers should be
+        among your friends. Activities which have to do with art,
+        flowers, music, gardens, furniture, interior decorating, radio,
+        theatre, building of homes, and along the lines of literature
+        awaken your own talents. Farmers, ranchers, horticulturists,
+        miners, engineers should be on your list of acquaintances of
+        those you can help and who can help you. You have a good
+        earning capacity and if you find yourself without money, or
+        drudging for others, it is because you have not been generous
+        enough in your desires for the good of others or have failed to
+        serve when called upon, in seeking opportunity wear becoming
+        shades of orange, henna, scarlet, or heliotrope. `
       },
       {
         "description": "The Educator",
@@ -257,43 +414,117 @@ export class NumerologyHelper {
         realities of life and not by superficial standards; when you realize
         this, you will not be alone, for the world will then beat a
         path to your door for counsel, advice, and learning and to
-        bask in the calm and certainty of your life.`
+        bask in the calm and certainty of your life. The affairs of your
+        business, and even of marriage, may go to pieces, if you live
+        too intensely in emotion and sentiment. Remember, you are
+        the educator and you cannot take the easy pathway. It is
+        through knowledge, science, skill, and wisdom that you take
+        your place in the world. You may be out of the common class,
+        but you will be loved and respected for what you have attained
+        and know. \n\n
+        There will be times when you will need to broaden your
+        opportunities. Travel, go into out-of-the-way places. Mix with
+        people who are the thinkers of the world, such as scientists,
+        investigators, historians, inventors, chemists, technicians, and
+        those who are mathematically and analytically inclined. Writers,
+        radio artists and technicians, lawyers, surgeons, and those
+        who have specialized in work give you interest and can help
+        you. Study religion and the sciences of being. Do research
+        work as a hobby. Criminology, secret service, and the more
+        subtle lines of endeavor will broaden your mind and help you
+        understand life. The realm of scientific art should interest you
+        and you could become the connoisseur os art, literature, and
+        antiques. Invite to your home those who have brains. Make
+        your home high-class and selective, but warm and helpful to all
+        who seek knowledge and earnestly try to bring science ano occult
+        principles of knowledge to bear upon human experience.`
       },
       {
         "description": "The Dynamo",
-        "detail": `You have a dynamic destiny, giving you the right to position,
-        authority, money, and recognition in the world. Your reward will not
-        always be in money, but in accomplishments; you must work for the love
-        of doing things and find more satisfaction in the good work than in
-        personal reward. When seeking to enlarge your field of opoprtunity,
-        join with people who are interested in civic affairs and the government.
-        Take an interest in sports, games, and the general amusements of the
-        public. Philosophical, mystical, and religious lines of thought should
-        be studied for your mental growth`
+        "detail": `You have a dynamic Destiny, giving you the right to position,
+        authority, money, and recognition in the world. Your
+        pathway will not be an easy one and your success will come
+        through “knowledge of life and its spiritual relationships,” as
+        well as through financial effort and determination. Your reward
+        will not always be in money, but in accomplishment; you
+        must work for the love of doing things and find more satisfaction
+        in the good work than in personal reward. To make
+        money your chief ambition could mean to court failure and
+        downfall from which it would be hard to recover. Money will
+        come when you have learned to strike a balance between the
+        material and spiritual forces of being and to work for the good
+        of all concerned, rather than for yourself alone. You may be
+        compelled to repeat your efforts again and again to reach your
+        goal, but only until you fully realize that all attainment is
+        based on the law of cause and effect, and not on chance or
+        luck. Your lasting reward will come through your own efforts,
+        strength of character, and mastery over self. Do not waste your
+        energies struggling for wealth. Do something wortnwhile, regardless
+        of financial return. Train your mind to philosophical
+        thought and always try to be an unprejudiced judge of the affairs
+        of others. Manage and direct your activities with efficiency
+        and meet emergencies with courage, and you will be
+        pleased to discover that you are an outstanding and successful
+        character in the community before you leave this old world of
+        ours. \n\n
+        When seeking to enlarge your field of opportunity, join
+        with people who are interested in civic affairs and the government.
+        People who travel and get into out-of-way places should
+        stimulate your mind. Writers, literary people, printers and
+        publishers, correspondents should be your friends, and you
+        may discover you can write too, if you want to. Take an interest
+        in sports, games, and the general amusements of tie public.
+        Philosophical, mystical, and religious lines of thought should
+        be studied for your mental growth. Big business men, who deal
+        with large undertakings and control the affairs of the business
+        world, should be among your friends and can help you develop
+        your own talents 'or coaching, educating, and directing the affairs
+        of mankind. Wear becoming shades of opal, canary, tan,
+        or ivory, when seeking new opportunity. `
       },
       {
         "description": "The Beautifier",
-        "detail": `You came into the world to stand for all that is fine, phil¬
-        anthropic, charitable, and beautiful. Music, art, romance,
+        "detail": `You came into the world to stand for all that is fine,
+        philanthropic, charitable, and beautiful. Music, art, romance,
         drama, color, ideality, and perfection should be the standards
         of your life, and even the most ordinary undertaking must be
         changed from the commonplace into the lovely, by your presence,
         thought, and ways of doing things. Your opportunities in
         life are so many, so all-embracing, and life will give you so
         many gifts, that in order to keep them for yourself, you must
-        represent all that is fine, true and generous to the world.
-        All that you desire in
+        represent all that is fine, true and generous to the world. Love,
+        tolerance, compassion, understanding, and generosity are the
+        keynotes to your success and happiness. You may meet many
+        experiences and tests; might even seem to fail, until you learn
+        to express forgiveness for one and all. All that you desire in
         love and companionship will come to you when you learn that
         true love is service to the many rather than to the one. To cling
         to personal love, possessions, and power too tenaciously might
         be to lose all; but when you express love as a Divine Law, you
         will then receive greater love than you have ever dreamed of.
+        There is a tremendous power wrapped up in your nature which
+        you can turn on to warm the hearts of humanity and to awaken
+        them to beauty, when you live true to your Destiny of love, service,
+        and the brotherhood of man. Dramatize life—not the sorrowful,
+        but the beautiful. This will put you in command of the
+        best the world has to offer.\n\n
         There will be times when you will need to increase your
         opportunities and to reach out into broader fields of endeavor.
-        There is no real limitation or place or opportunity for you
+        There is no real limitation o place or opportunity for you
         unless you make it so by careless living. People in all walks of
         life will help you and you can help them when you train your
-        mind to universal thought.`
+        mind to universal thought. Physicians, lawyers, writers, artists,
+        painters, orators, ambassadors and religionists should
+        be among your friends; even those in the lower walks of life
+        should know your generosity. Men and women in all walks of
+        life will help and admire you as you give the dynamic force of
+        your being to constructive opportunity. Do not allow popularity
+        to go to your head at any time. Always be impersonal, for
+        habit, weakness of purpose, or a too wor thy life could cause
+        you to miss the thrill of taking a hand in molding the hearts
+        and minds of humanity. Make the expression of your personality
+        colorful. Do not be drab or colorless in your dress or
+        environment. `
       },
     ]
 
@@ -311,18 +542,24 @@ export class NumerologyHelper {
         establish your own business if you desire. You have executive
         ability, will power, courage, and are quite capable of overcoming
         any barrier to your success when you make use or your creative
-        ideas. Life should never be dull for you if you make the best
+        ideas. You are, or should be, selective in friendships, and
+        have quite a sense of humor. You love the nice things of life
+        and are sensitive to your environment and to what others think
+        of you. Life should never be dull for you if you make the best
         of your initiative, executive ability and original ideas, for you
         have strong powers of attraction wnich will lead you into interesting
         work and experiences. Broad vision, magnetic force, and
         inspiration enable you to carry out your plans in a big way and
-        for financial reward. Avoid the negative sides of your character:
+        for financial reward.
+        The negative side of your character is shown in the following
+        ways, and you should keep this side under control; use
+        your strong will and determination to avoid intensifying these
+        qualities or allowing them to become “set” or “fixed” habits:
         dominance; egotism; bossy manner; impatience with the opinions
         of others; over-confidence in yoursell, or “knowing it
         all”; refusal to take advice or to be told; selfishness through
         too much interest in your own plans; and, at times, vacillation
         and indecision—all are to be avoided.
-
         You have unlimited opportunity through active mental interests
         and undertakings. You can be very successful through
         developing new projects, for these bring out your initiative,
@@ -338,98 +575,408 @@ export class NumerologyHelper {
         position; also the field of amusement and entertainment is
         your scope of activity, for you have a sense of humor and enjoy
         wit and comedy. Schools and colieges may claim your interest,
-        and all types of business which are outside the established order of things.`
+        and all types of business which are outside the established order of
+        things.
+        Wear flame, lilac, copper, or apricot for a touch of color
+        while you work. `
       },
       {
         "description": "Diplomatic Type",
-        "detail": `You are the diplomatic type, naturally sensitive, cooperative
-        and considerate of others. There is a gentle side to your
+        "detail": `You are the diplomatic type, naturally sensitive,
+        cooperative and considerate of others. There is a gentle side to your
         character and it is this which makes you more persuasive than
         forceful. You are a good mixer, able to influence others and to
         win them over to your way of thinking, especially when you
-        realize the power there is in your quiet way. Your success depends very
-        much on your ability to help others get what they
-        want, rather than to be too selfish or self-interested.
+        realize the power there is in your quiet way. Your success depends
+        very much on your ability to help others get what they
+        want, rather than to be too selfish or self-interested. This is due
+        to a spiritual quality in your make-up and you should not fail
+        to value this even in business, for it is your peacemaking qualities
+        rather than your attempts to dominate which win for you.
+        Your natural sensitiveness when rightly directed becomes sincerity,
+        graciousness, and esthetic feeling, and you should try to live
+        according to high standards of culture and refinement. Your
+        sympathetic feeling and consideration of others, ability to analyze,
+        to be accurate and detailed, are fine business assets. An
+        ability to associate with others, bringing people together for a
+        common cause, is an attractive part of your nature.
         There are a few faults in your make-up too. Sensitiveness
         could become a fault, making you negative, fearful, timid, and
         fretful, instead of strong and courageous even in a quiet way.
-        Even though you are courteous and kind, you can be surprisingly blunt
-        in speech and exacting in your demands, expressing a great deal of
-        nervous energy. You are something of the extremist too, strong in
+        Now and then you are uncertain, finding it hard to decide what
+        to do for fear of being w r rong, for you are naturally conscientious
+        and want to do the right thing. Your accuracy makes you
+        dislike mistakes, and you often hesitate for fear you may not
+        do as well as you would like to. You should overcome this. Do
+        the best you can at all times and gradually you will perfect your
+        talents and make a success in the world. Even though you are
+        courteous and kind, you can be surprisingly blunt in speech
+        and exacting in your demands, expressing a great deal of nervous
+        energy. You are something of the extremist too, strong in
         your likes and dislikes, and there is a touch of the reformer in
         your character. If you will cultivate the people who stand for
         the best in life, share what you have with others and then make
-        use of your talent for doing things well, you will climb the ladder and
-        stay at the top.
-
+        use of your talent for doing things well, you will climb the ladder
+        and stay at the top.
         Opportunity comes through fine machinery and delicate
-        instruments. Also banking, as
+        instruments. Success may come through dancing, music, painting,
+        literature, violin, harp, and other finer musical instruments.
+        The ministry, religious activities, medicine, politics, and
+        ail lines of administration are open to you; also banking, as
         treasurer, teller, paymaster, accountant; and activities dealing
-        with finance and money; radio, electricity, sending of mes¬
-        sages, technical and mechanical pursuits; gathering o statis¬
-        tics, collecting art works, tapestries, papers, pieces of money`
+        with finance and money; radio, electricity, sending of messages,
+        technical and mechanical pursuits; gathering o statistics,
+        collecting art works, tapestries, papers, pieces of money;
+        success through endeavor having to do with travel, liquids, and
+        the moving public. Wear gold, salmon, garnet, or cinnamon
+        while you work. `
       },
       {
-        "description": "The Creative Optimist",
-        "detail": "null"
+        "description": "Creative Type",
+        "detail": `You are the creative type, possessing a good imagination,
+        power of inspiration, and deep emotional feeling. No matter
+        how practical you may think you are, or try to be, you will find
+        much of your success dependent upon the “vision” and creative
+        imagination you add to your undertakings. You have the
+        gift of words as a natural asset and this ability to express yourself
+        in words, the gift of “gab,” is a financial possibility. Socially,
+        your ability to talk, entertain, and inspire others is the
+        open door to friendship and social standing. However, you
+        can talk too much and at the wrong time when you allow your
+        emotions to get the best of you, so keep a guard on your speech
+        and make it a vocation, not a scattering force. Your natural
+        tendency to be obliging, to help those who are weak, and a
+        cheerful, happy disposition are financial assets. You are capable
+        of reaching great heights of attainment, even performing
+        deeds of valor, when you live up to that inner feeling of power
+        which comes to you at times. You like to do things on a large
+        scale and have the intuition, or “hunch,” which tells you what
+        to do. This will always help you, but there may be times when
+        you become too optimistic, scattering your forces and your
+        money, thus failing when you should succeed. You should try
+        to understand your own ambitions and carry them out, but
+        avoid going too far or letting emotion get the best of you.
+        There is a reticent side to your character too, for you are
+        very sensitive and can withdraw into a shell of silence when you
+        are criticized or hurt. Now and then, too, you can be very critical
+        of others and tell them of their mistakes or unconsciously
+        become selfish and sel -centered, causing problems in your
+        love affairs. At other times you can be easygoing, seeming to
+        lack in will, or to be too fond of ease and luxury. But you have
+        the ability to supply yourself with the best there is in life when
+        you use your creative powers successfully and can change your
+        luck any time you put your imagination to work. You can be a
+        very pleasing companion, admired by the opposite sex, and you
+        are capable o enjoying life. You have splendid powers of attraction
+        and if you are not getting the best out of life, it is your
+        own fault, for you are unusually endowed with talent.
+        You may succeed in all artistic lines, both in business and
+        in the professions, art stores, clothing, millinery, department
+        stores, jewelry, candy, foods; all lines of entertainment, dancing,
+        music, writing, and acting; stocks and bonds, printing,
+        publishing, libraries, designing, illustration, drama, religious
+        activities, and psychic pursuits; success in all lines of activity
+        where feeling and emotion have financial value, and in making
+        dreams come true.
+        Wear ruby, gold, amber, or russet while you work. `
       },
       {
         "description": "Practical Type",
-        "detail": `You are a practical type. You like to know just what you are
-        doing and why, and do not take chances unless you are sure. You have a
-        strong sense of what is right, and even though you are strong in your
-        likes and dislikes, you have a natural friendliness and dignity. There
-        is a fine ability in your makeup to manage, systematize, and to
-        establish order and routine. Now and then you can be a little exacting,
-        even a little bossy and dominant, and like to give orders rather than
-        take them; and you may argue or be a little bit contrary when you do not
-        have your own way; so watch out for this as it can make difficulties for
-        you. But value your fine powers of management and of constructive
-        endeavor, and these will take you far in the business world.`
+        "detail": `You are a practical type. You like to know just what you
+        are doing and why, and do not take a chance unless you are
+        sure. You are rather serious and quite fixed in your way, but
+        are naturally honest, sincere and conscientious. You have a
+        strong sense of what is right, and even though you are strong in
+        your likes and dislikes, you have a natural friendliness, combined
+        with a sense of dignity and self-importance. You like to
+        feel sure, to have a nest egg, and have a very good sense of
+        practical values which, if you cultivate it, will help you in the
+        business world. You like to have a plan and are patient about
+        the details when you can take time to work them out accurately
+        and carefully. There is a fine ability too, in your make-up, to
+        manage, systematize, and to establish order and routine. You
+        like to have things done well and can be exacting about the details
+        of personal items, sometimes neglecting the bigger things
+        for the smaller details, even in business.
+        You are approachable in personality and in business are
+        capable of helping everyone. At the same time you are rather
+        selective in your personal friendships and associations. You are
+        naturally careful with your possessions, competent, and a good
+        manager, and have the ability to inspire confidence, for you
+        are noi easily carried away by fancies or fads and extravagant
+        undertakings. You like the best in life, and are a good spender,
+        but you can be very careful about money and demand return
+        for value given. You are capable o working hard and show tenacity
+        and perseverance when your mind is made up; and a few
+        hard knocks are good for you as they bring out your natural
+        courage, powers of concentration, honesty, and your good nature.
+        You seem to do better when you have a hard problem
+        than when things are too easy. Now and then you can be a little
+        exacting, even a little bossy and dominant, and like to give
+        orders rather than take them; and you may argue or be a little
+        bit contrary when you do not have your own way; so watch out
+        for this as it can make difficulties for you. But value your fine
+        powers o management and of constructive endeavor, and
+        these will take you far in the business world.
+        Number Four may find success through building, contracting,
+        organization, and bringing plans into concrete form;
+        success through buying and selling, administration, soliciting,
+        hiring, employment, regulation of ceremonies, and management
+        of well established business; success through scientific interests,
+        educational matters, promoting campaigns, and in all
+        lines of endeavor having to do with documents, papers, contracts,
+        examination, legal activities, lending or exchange, and
+        concerning property and real estate; store keeper, dealing with
+        commodities, repairing, and supplying the public with its daily
+        needs in practical necessities. Number Four is not good in “get
+        rich quick” schemes, but in work that has background.`
       },
       {
         "description": "Independent Type",
-        "detail": `You are the independent type. You like your freedom and have
-        a natural interest in what is going on in the world and are at your best
-        when you can have more than one iron in the fire. You can keep things
-        moving and are a rapid, quick thinker, charged with imagination and gift
-        of words; you add pep and speed to whatever you undertake. This is one
-        of your attributes of business success. You can become discontented
-        easily and change too readily for your own good when you allow the love
-        of freedom and change to become too strong. You can be very analytical,
-        sometimes unsympathetic, and like to stir things up when expressing the
-        negative side of your character; but the better side of your nature is
-        charitable and helpful. You may have opportunity through dealing with
-        the public and its love of change and variety; advertising, publicity,
-        promotion, and all lines of work which call for energizing power rather
-        than routine. `
+        "detail": `You are the independent type. You like your freedom and
+        have a natural interest in what is going on in the world and are
+        at your best when you can have more than one iron in the fire.
+        You are an active individual, sometimes restless and impatient
+        if things move along too slowly, or you have to do the same
+        thing over and over too long at a time. You are versatile and
+        clever, having natural resourcefulness and so much enthusiasm,
+        that things do not stay the same for long where you are.
+        You can keep things moving and are a rapid, quick thinker,
+        charged with imagination and gift of words; you add pep and
+        speed to whatever you undertake. This is one of your attributes
+        of business success. Sometimes an inner restlessness causes you
+        to act hastily and to burn your bridges behind you when you
+        should have left them standing to cross over again. You can
+        become discontented easily and change too readily for your
+        own good when you allow the love of freedom and change to
+        become too strong. You should seek the opportunity to travel,
+        see the world, and to know life; but you should not be the rolling
+        stone which gathers no moss.
+        You may be accused of lacking in application, because
+        you like change and variety, it is true you do not like to spend
+        unnecessary time getting things done, but your versatility and
+        quick thinking give you power and authority in all progressive
+        activities and lines of business. You can be bold and invincible
+        when aroused to action and will challenge any obstacles in your
+        way.
+        You can be very analytical too, sometimes unsympathetic,
+        and like to stir things up when expressing the negative side of
+        your character; but the better side ol your nature is charitable
+        and helpful. Even though you are freedom-loving, you like to
+        see the “law” ful illed and do not lack stability. Without you
+        the world could grow dull and get too fixed in its way for real
+        progress. Many experiences will come to you in life. Extract
+        the value from them and build your success upon the knowledge
+        you have gained from much living and contact with all
+        kinds of people.
+        The number Five may have opportunity through dealing
+        with the public and its love of change and variety; opportunity
+        through business which caters to the public’s desire for life,
+        travel and excitement; advertising, publicity, selling, newspapers,
+        business of exchange, investment, and promotion, and all
+        lines of work which call for energizing power rather than routine;
+        legal matters, civil service, drawing up of contracts, transfers,
+        distribution of material, law, politics, column and story
+        writing, and the field of amusement; opportunity through mysteries,
+        the occult and the unusual, scientific study and analysis.
+        Wear claret, wisteria, or strawberry while working.`
       },
       {
-        "description": "The Humanitarian",
-        "detail": "null"
+        "description": "Humanitarian Type",
+        "detail": `You are the humanitarian type and are capable of serving
+        mankind and of doing worthwhile things in life. You are an
+        idealist too, and have many strong opinions about what is right
+        and wrong and cling tenaciously to your ideals of truth and
+        justice. You are generous, kind, and sympathetic and have a
+        loving, appreciative nature; much of your success in life, both
+        in business and marriage, will come through the kindly, helpful,
+        and protective things you do for others. Responsibility is
+        the keynote to your activities, for your ability to do things in a
+        big way and a natural tendency to serve and teach will keep
+        you busy and help you attract money, love and admiration.
+        Many will impose upon your good nature and take advantage
+        of your generosity, even your family and loved ones; but as
+        long as you do not become personal and resentful, but keep on
+        serving humanity, you will always have money and opportunity
+        in the world. Sometimes you give too much and sacrifice
+        yoursel for others, going to extremes because you love to help;
+        and this must be guarded against, for it may cause unnecessary
+        loss and emotional unhappiness. You are fond of your home,
+        family, and relatives, have an artistic nature, love beauty, harmony,
+        flowers, music, and the luxuries and comforts of life.
+        You should establish an artistic and harmonious environment.
+        You need the same love and sympathy for your best
+        growth which you give to others, and a chance to live an
+        idealistic life. You are more controlled by your feelings than
+        you care to acknowledge, so when you are not happy or appreciated
+        you can become surprisingly stubborn, unreasonable,
+        and unhappy and feel like giving everything up. And too, you
+        can become dominant, exacting, and fussy. Don’t be like that.
+        You are too ine a character. Keep on giving and helping others,
+        but sensibly, for after all, you are the one who serves, comforts,
+        and teaches the race.
+        Business opportunity and luck come through lines of endeavor
+        which serve humanity and make life more comfortable,
+        easy, and luxurious. Doctor, nurse, teacher, rancher, cook,
+        minister, welfare worker, restaurants, furniture stores, schools,
+        select apartment houses, family hotels, and all commercial and
+        industrial pursuits which combine art, comfort, and beauty,
+        are in your life scope; ine opportunity through teaching and
+        training children; animals and flowers give financial attraction;
+        also interior decorating, gardens, pottery, and commercial art;
+        possibilities as singer, story teller, and painter; boats, irrigation,
+        ships, engineering, mines, horticulture, livestock; religious
+        activities and all lines of reform and education. Should you find
+        yourself drudging and lacking money you are wrong somewhere,
+        or have forgotten to be generous, for you belong to
+        those who should make money and have the comforts of life.
+        Wear orange, henna, scarlet, or heliotrope while you work. `
       },
       {
-        "description": "The Educator",
-        "detail": "null"
+        "description": "Scientific Type",
+        "detail": `You are the scientific and thinking type. You have an
+        observing nature and an analytical mind. It is not natural for you
+        to accept things at their face value for you have a natural ability
+        to relate facts, put two and two together, to size up situations
+        and conditions from a technical and scientific standpoint.
+        This is part of your financial success and gives you unusual
+        opportunity if you use it well. You have a high type of mind,
+        combined with an intuitive feeling and an ability to understand
+        the hidden and non-apparent facts, making you a developer,
+        discoverer, inventor, and specialist. Knowledge is power in your
+        life, and the more you know, the farther you will go.
+        You are naturally reserved, thoughtful, silent, and selective,
+        and while you like people and like to be with them, you
+        do not care for the common crowd and select your friends and
+        environment with respect for dignity and pride. However,
+        when you are on your own ground and feel familiar and at
+        home, you can talk well and interestingly. You have an inner
+        magnetism which is an inspiration to others and a drawing
+        card, both in business and friendship.
+        You are not a truly adaptable person and are averse to
+        being asked questions outright, although you ask many and
+        demand proof, making you seem to be a doubter, or cold and
+        hard. This side of your character can make you difficult to
+        understand and you may hardly understand yourself at times, but
+        when you take time to listen to your inner guidance, you have
+        nothing to 'ear at any time. You often need to be a'one, to get
+        close to nature, to think and read, for you gain your composure
+        in this way and discover your true self, which makes you a
+        most attractive and successful character. You are something of
+        the stoic too, for too much emotion strips you of your power.
+        Many times during your lifetime you will have to depend entirely
+        upon your own ability and soul force; but just have confidence
+        in your inner magnetism, your clear thinking mind,
+        your technical and mathematical ability, and you will be called
+        from the background into the luck you deserve.
+        All lines of business which call for calculation, analysis,
+        'ine deduction, scientific knowledge and technical ability;
+        insurance, mathematical pursuits, chemistry, dietetics, history,
+        research, criminal investigation and all business requiring skill
+        and specialized ability; educational matters, technical and
+        scientific art, medicine, law, engineering, invention, literary
+        activities, laboratory and statistical interests, radio and cinema—are
+        in your scope. The occult, mystical, and mysterious give
+        opportunity; also music, pipe organs, and musical instruments;
+        ability to do fine work with your hands, carving, etchings, and
+        making of delicate objects of art and science; bookkeeping and
+        accounting.
+        Wear purple, brick, or pearl while working. `
       },
       {
-        "description": "The Dynamo",
-        "detail": "null"
+        "description": "Executive Type",
+        "detail": `You are the executive type and have splendid powers of
+        organization, placing you among those who organize, coach,
+        supervise, direct, and govern affairs, at home and out in the
+        world. You are capable of taking charge of things and are ambitious,
+        energetic, efficient, and capable of judging people and
+        situations with a air mind. These talents should give you authority,
+        recognition, position and power in the social, professional
+        and business world. You have a natural ability to judge
+        character, a philosophical turn of mind, and wonderful powers
+        of self-control; you have the courage and energy to repeat your
+        e: forts until you reach your goal. You should be at the head of
+        large undertakings and business and professional activities, for
+        a small, narrow, routine life does not bring out your strength
+        and efficiency. In fact, an emergency or need does much to
+        bring out your real character and force of initiative. Your success
+        in life comes from working for a goal or purpose through
+        organizing work, endeavor, and plans helpful to many people.
+        You are not exactly the humanitarian, but you do have the
+        ability to inspire others to greater effort and to do things for
+        yourself and the world in a spectacular and valuable manner.
+        There is a very fine side to your character, capable of mastering
+        the hardest problems, through a faith in spiritual and
+        philosophical law. Another side is often commercial, material
+        in thought and interested only in financial gain. Your best success
+        comes, however, as you strike a balance between these
+        two, to give you the wise judgment which Life demands of
+        you. Sometimes you strain, strive, think too much of money,
+        and use so much energy doing things that you wear yourself
+        out, driving love and business away instead of attracting them.
+        Don’t strive so hard. Just make sure your judgment is good
+        and take time to do things well; then your natural executive
+        ability will take you to the top. This judgment is the keynote to
+        your position and authority and should place you at the head
+        of business and broad professional enterprise.
+        The Eight finds success along any line of work demanding
+        organization; opportunity through printing, publishing,
+        correspondence, editing, exploring, civil government, supervising,
+        coaching and regulating general business and finance; real
+        estate, property, selling, exchange, games, sports, athletic
+        activities, archaeology, drama, music, pipe organ, intelligence
+        service, nurse, care of mental hospitals and institutions—for
+        your abilities cover a wide scope; character analyst, judge,
+        lawyer, historian, writer, and good in all lines of governmental
+        activity, statistical and research departments, efficiency expert.
+        Wear opal, canary, or tan while you work. `
       },
       {
         "description": "Philanthropic Type",
-        "detail": `You are the philanthropic type. You have a deep feeling for
-        mankind, sensing the heights and depths of life and the glory of
-        existence. Your disposition is compassionate, generous, sympathetic,
-        and tolerant, and you have a wide range of feeling, a sensitive nature,
-        and a very vivid imagination. When you express your natural compassion
-        you are capable of doing interesting and lasting work in the world,
-        including art, philanthropy, religion, and business. You are idealistic,
-        romantic, have a striking personal magnetism and a marvelous power to
-        influence others for good or bad. With all your beauty of character at
-        times you can be strangely uncertain, timid, vacillating, even moody,
-        and show weakness of character, because you cannot reach your ideal or
-        attain the perfection you so deeply realize.`
+        "detail": `You are the philanthropic type. You have a deep feeling
+        for mankind, sensing the heights and depths of life and the
+        glory of existence. You are not always able to live in this high
+        state of consciousness, but you do color your affairs with dramatic
+        feeling. Your disposition is compassionate, generous,
+        sympathetic, and tolerant, and you have a wide range of feeling,
+        a sensitive nature, and a very vivid imagination. When you
+        express your natural compassion you are capable of doing
+        interesting and lasting work in the world, including art,
+        philanthropy, religion, and business. You are impressionable and
+        broadminded and eager to take on the responsibilities of life
+        but sometimes meet disappointment because you do not find
+        the perfection you seek in others or in yourself. You must rise
+        above these disappointments and keep your generosity of purpose;
+        and try to realize that perfection must be earned and
+        cannot be reached all at once. Help others, counsel them and
+        inspire them; but don’t give to the point of weakness, for this
+        only delays you and keeps you from doing the universal work
+        which your talents permit.
+        You are idealistic, romantic, have a striking personal magnetism
+        and a marvelous power to influence others for good or
+        bad. You love deeply and passionately, and true love will
+        remain with you always as you are more broadminded, tolerant,
+        and compassionate than the ones you love. With all your beauty
+        of character at times you can be strangely uncertain, timid,
+        vacillating, even moody, and show weakness of character, because
+        you cannot reach your ideal or attain the perfection you so
+        deeply realize. But don’t be that way. You have such marvelous
+        power to turn the unlovely into the attractive, the worthless
+        into the beautiful, to rebuild humanity and to promote
+        civilization, that if you follow this goal, your success will be
+        beyond your expectations.
+        Opportunity comes to the Nine along all dramatic, artistic
+        and emotional lines of business; stage, literature, movies,
+        education; dealing with foods, health matters, and lines of business
+        which have to do with the broader phases of living; through
+        travel, foreign people, or governmental activities and business
+        dealing with and including many people; in ability to employ,
+        place, train people and place them for success; in ability to
+        beautify land, homes, property, and environment; as lawyer,
+        teacher, physician; through mechanical arts and through use of
+        knowledge of color, painting, designing. Religious and charitable
+        activities give financial gain.
+        Wear much color while at work, especially pastel shades. `
       },
     ]
 
@@ -439,81 +986,541 @@ export class NumerologyHelper {
   getHeartsDesireDescription = (number) => {
     const values = [
       {
-        "description": "The Leader",
-        "detail": ``
+        "description": "Independence",
+        "detail": `You are an independent character at heart, strongly
+        individualized and courageous. You are ambitious too, and want
+        to get on in the world, but by your own efforts and intelligence.
+        You are not one to shirk your responsibilities, for you
+        have much inner strength and determination, but you do like
+        to feel independent and do things in your own way. You could
+        never really be happy in a subordinate position. In fact, your
+        ability would not allow you to remain there long, for there is
+        too much inner power, determination, creative force and executive
+        ability down deep in your heart to allow you to stay at
+        the foot of the ladder of life. Should you find vourself remaining
+        in such a position for some time, it would mean that you
+        were not digging deep enough into your heart for the strength
+        of character which is there. You have latent powers of executive
+        ability, interesting and original ideas, and if you make use
+        of them in a constructive manner, you will find you are making
+        your way in the world with ease and satisfaction. The fulfillment
+        of your Destiny depends a great deal upon the cultivation
+        of this inner force of character and the innate strength and
+        independence of your ambitions. But remember that in order to
+        be the true leader, you must help others too and not think only
+        of your own interests and desires. When you do this you will
+        'ind others respecting and helping you; life will never hold a
+        dull moment, but will open the way for outstanding position
+        and opportunity.
+        There are possibilities of faults growing out of your inner
+        will and determination. Now and then you can be headstrong,
+        impulsive, willful; you do not like to be told to do things or to
+        be bossed by those who are not in sympathy with your ideals or
+        methods. This might make you appear contrary, or bossy,
+        dominating and egotistical. This could lead to misunderstandings,
+        unhappiness and quarrels at certain times in your life.
+        You are not lacking in cooperation; in fact you often shrink
+        from taking a stand or from doing the thing which will place
+        you at the head of things, for fear of hurting others. You are
+        reticent too and sometimes lack in seif-confidence, except that
+        something deep in your heart urges you forward. Stand for
+        your rights, keep your seif-confidence strong, be yourself, and
+        maintain your pride in yourself and your accomplishments.
+        But at the same time always express your ideas and plans with
+        courtesy, graciousness, and sincerity, and then you will be a
+        well-loved leader and character. At home, as well as out in the
+        world, you feel your right to be recognized, or at the head of
+        things; and you always will be as long as your nature is kind
+        and generous.
+        So you see, there is much that is interesting in your
+        makeup; your pride, your sensitiveness, your moments of willfulness,
+        impulse, and determination, combined with sudden
+        reticence, shrinking, dependence, and wit are the things the one
+        who ioves you will see in you and admire. They are the lovely
+        things about you and you should always keep them so.
+        Wear flame, copper, apricot, lilac, or shades oi these colors when attracting
+        love and friendship. `
       },
       {
-        "description": "The Peacemaker",
-        "detail": "null"
+        "description": "Harmony",
+        "detail": `Deep in your heart there is sincerity, graciousness and
+        consideration for others. You have an appreciation of the refinements
+        of life, and when you are true to your inner nature you
+        will express these qualities. Peace and harmony mean much to
+        you and influence your actions in everything you do—business,
+        studies and love affairs. You desire to obtain results harmoniously if
+        possible; but you will fight if driven too far, although
+        your tendency is toward persuasiveness rather than aggressiveness.
+        Your almost unconscious urge for harmony may at times
+        make you appear shrinking and even negative when you are
+        really only trying to cooperate with others, or to avoid strife
+        and disagreements. You do things for the sake o “peace”
+        when you should not, and your gentleness and tendency to act
+        in a non-resistant manner often make it difficult for you to
+        stand up against a more willful or dominant person.
+
+        You are cooperative in your thoughts and actions; you
+        love to share with others and to help those who are in need.
+        You depend upon others too, even more than you care to admit,
+        and you often fear to trust your own judgment. Consequently
+        you often suffer periods of doubt and uncertainty, and
+        sometimes are forced to subordinate yourself when you should
+        be sharing equally with others. You have a natural dread of
+        offending, but you should try to overcome this tendency to inner
+        self-consciousness. It will make you unhappy and cause
+        you to miss opportunities to use your talents and to carry out
+        your Heart’s Desire. Your gentle, sweet inner nature is your
+        charm; quiet assurance, impersonal attitude, general friendliness,
+        are your greatest assets; and if you will try to emphasize
+        these traits, they will make you popular and help you win what
+        you cannot force in life. Your sympathy and feeling for others
+        make you appealing and attractive to the opposite sex, but it
+        may result in many disappointments and problems until you
+        learn to be self-determined and stand up or your own rights.
+
+        There is a spiritual quality in your make-up of which you
+        may be unaware. From this quality springs your sensitiveness,
+        love of beauty and culture as well as your gift of analysis and
+        ability to understand the finer things of life. It causes you to
+        shrink from everything coarse, crude and unlovely, but when
+        you learn how to use this spiritual force, it will become a
+        dynamic power, a magic key, enabling you to control and direct
+        your affairs far more successfully than any material knowledge
+        can give you. At times you may be indecisive and have difficulty
+        in making up your mind. When you find yourself in this
+        state, “snap out of it,” and have more confidence in yourself.
+        Forget your fears and worries and what others may think or
+        say. Go after things in your own way, even though it may not
+        be a forceful one. Appreciate the sincerity and cooperation in
+        your nature. Transmute sensitiveness into artistic feeling and
+        the refinements of life. Then you will be able to overcome the
+        obstacles and problems of everyday life and get more “kick”
+        out of existence. Your ability to “mix” should assist you in the
+        business world, increase your Vocational assets and aid you in
+        fulfilling your Destiny. Gentleness need not be vacillation or
+        insincerity. Be true to your higher resolves. Share your success
+        with others and you will find life very worthwhile.
+
+        People having the number Two at heart will be helpful
+        and companionable. To attract sympathetic friends wear gold,
+        salmon, garnet, cinnamon as part of your accessories.`
       },
       {
-        "description": "The Creative Optimist",
-        "detail": "null"
+        "description": "Joy",
+        "detail": `You are something of a dreamer at heart. You would
+        rather be happy than practical and have a strong desire to find
+        the joy and romance in living. In fact, inspiration and imagination
+        are your finest characteristics and when you learn how to
+        use them intelligently they will be the means of your attaining
+        the best that life has to offer. You love to do things grandly
+        and on a large scale and like nice environment, protection, the
+        comforts of life, and the elegance of living. But to what extent
+        you realize these desires depends somewhat upon your Destiny
+        and vocational talents. Should your artistic instinct and desire
+        for self-expression in some happy, even fanciful, way be
+        thwarted, you could become repressed, even unhappy or ill.
+
+        You love to talk and to express your opinions and ideas
+        when you are with those you love and you will generally find
+        yourself the center of activities because of your ability to liven
+        things by your pleasant, friendly manner. You should specialize
+        in making others happy. It is also true that there is a reticent
+        side to your nature and you can shrink from the limelight
+        and from becoming too conspicuous; and there is a tendency in
+        your inner self to live in a world of feeling and emotion. You
+        should try to express this emotion in some constructive manner
+        —follow the dictates of your heart to create—and you will be
+        easily successful in the world of finance and professional life.
+        Sometimes you fret about small things and are inclined to be
+        too exacting if things do not come up to the standard of perfection
+        and loveliness you desire. You will do better in life if you
+        follow your desire to do things on a large scale and do not try
+        to hold yourself down to a limited scope o; activity. Stick to
+        your dreams and make them come true, but don’t dream too
+        much and fail to get down to earth.
+
+        Your natural urge is to be kind and obliging; you love to
+        help those who are in trouble. You have a keen appreciation of
+        friendship and your friends mean a great deal to you. You are
+        capable of a deep love and of sacrificing yourself for those you
+        love; and you want to have love and be loved. You see, you are
+        a bit romantic at heart, as well as artistic and inspirational.
+        You should be admired by both sexes when you remember to
+        be reasonable in your demands and opinions; you can be a
+        most entertaining and charming companion. You have so
+        much ability to make others happy that you should never be
+        alone or without love. Should you find yourself without admiration,
+        it might be because you had unconsciously become self
+        centered or self-satisfied and so interested in your own affairs
+        and activities that you had forgotten to think about the affairs
+        of others; this could hurt those who love you and who are trying
+        to help you. Now and then you talk too much and like to
+        show off a little, but as long as you keep cheer, good will, and
+        beauty in your heart, you will find no difficulty in carrying out
+        your Destiny and working out your problems.
+
+        To win friends wear rose, ruby, amber, and gold as part
+        of your accessories.`
       },
       {
-        "description": "The Organizer",
-        "detail": "null"
+        "description": "Order",
+        "detail": `You have a fine appreciation of law and order in your inner
+        nature. When successfully used, this quality will be of
+        value to you in the world of material success. You have a
+        practical point of view and like to have affairs arranged
+        with system and dispatch. You look at life in a wholesome way and
+        you are very conscientious in your undertakings. You want
+        things to be correct and “like they should be” and generally
+        meet your problems seriously, in a matter-of-fact way. You
+        like to look ahead, to plan carefully, and to apply yourself to
+        your tasks with concentration and good management. Your
+        Destiny and your Birth numbers may not give you the full
+        opportunity to express this desire at all times, but you are happier
+        when you can plan and lay a foundation of a permanent nature
+        upon which to build your life. You can be very restless,
+        unhappy, and inwardly disturbed when life is uncertain
+        and lacking in security or when you have nothing to hold to, or for
+        which to work.
+
+        In business, home, and love affairs, you are rather serious
+        in thought and action. Your business or marriage partner
+        should have a practical outlook too, because you want dreams
+        to come true and desire real and tangible results. Loyalty,
+        stability, dependability, mean much to you. You have many
+        convictions and do not easily change your mind once it is made up.
+        You are honest and sincere in your motives and have a fine
+        inner determination. You can stick to things with tenacity and
+        patience when you receive the right encouragement. Your ability
+        to apply yoursel: to get things done enables you to overcome
+        difficulties and to get definite results. Now and then you
+        give too much time to details, for you like to have everything
+        exact, correct, and just right. You may worry and fret if little
+        things are not attended to. This conscientiousness is one of
+        your good traits but if carried to extremes might be the cause
+        of your missing some of life’s larger opportunities. Greater
+        happiness will come when you learn not to allow little things to
+        count too much.
+
+        If I were to pick out a fault in your character, it would be
+        an unconscious tendency on your part to take the opposite side
+        oi matters at the first approach. This is due to your desire to be
+        right, to understand things, and to be sure. You may even argue
+        and be hard to convince until you are sure. Friends and
+        associates may accuse you of contrariness and slowness, but you
+        really are not contrary. It is your inability to change your mind
+        easily which makes you appear so. Plan your life according to
+        your practical desires, but also put fun and inspiration into
+        your undertakings, especially love affairs, so that you will find
+        life more interesting. You should always follow your inclination
+        to build and construct on all planes of life. Your soul urge
+        is for constructive accomplishment which you can use to help
+        humanity in many practical ways and also to make a success of
+        your own life. Build your character and your life brick by brick
+        and do not hurry. Take time to do things well and you will find
+        your life built upon a rock of security, with success never failing you.
+
+        Wear blue, green, emerald, coffee, maroon, or silver in
+        your accessories to attract friends. `
       },
       {
         "description": "Excitement",
-        "detail": `You are interested in what is going on in the world, and
-        desire to be a part of it in some way. You are enthusiastic, enjoy life,
-        the new, the progressive, the unusual, and seek the opportunity to
-        express yourself through groups or public activity. Independent in
-        thought and action, you definitely claim the right to personal freedom;
-        you do not permit people or conditions to interfere with your life or to
-        limit your self-expression for any length of time. Routine can easily
-        become a bore to you regardless of your work or activities. You are not
-        at your best when forced to do work or remain in a place which is always
-        the same. You are ambitious too, but you should avoid too many irons in
-        the fire, scattering your forces and finances and undertaking more than
-        you can successfully carry out. Travel is good for you. When you feel
-        yourself getting restless and critical or irritable, buy somthing new,
-        take a trip, or make some ocnstructive change which will improve your
-        work and environment.`
+        "detail": `You are interested in what is going on in the world and
+        desire to be a part of it in some way. You are enthusiastic, enjoy
+        life, the new, the progressive, the unusual, and seek the
+        opportunity to express yourself through groups or public activity.
+        The unexpected and exciting are more stimulating to you than
+        the ordinary procedures o everyday existence. Independent in
+        thought and action, you definitely claim the right to personal
+        freedom; you do not permit people or conditions to inter 'ere
+        with your life or to limit your self-expression or any length of
+        time. You are charitable and considerate of others, but at the
+        same time you insist upon the right to follow your own ideals,
+        and to live your own life.
+
+        Routine can easily become a bore to you regardless of
+        your work or activities. You are not at your best when forced
+        to do work or remain in a place which is always the same. Your
+        attention may wander if there is not sometning new, different,
+        or just a little bit exciting taking place to give variety and spice
+        to life. Your Destiny or Vocational numbers may not allow
+        you all the freedom you desire, but you will be able to express
+        yourself better in a general way if you can change things from
+        time to time to liven them up. Lack of freedom and variety
+        may lead to a feeling of dullness, discontent, unrest, and
+        dissatisfaction, causing you to act hastily and impulsively, and to
+        do things which may lead to sorrow or regret later for others as
+        well as yourself. I you will learn to recognize this unrest and
+        turn it into worthwhile action and resourcefulness instead of
+        impatience, you will develop an amazing power to accomplish
+        things, influence people, and “go places” in the social,
+        financial, and progressive world.
+
+        You are ambitious too, but you should avoid too many
+        irons in the fire, scattering your forces and finances and
+        undertaking more than you can successfully carry out. Too much
+        change and variety may result in lack of proper application and
+        concentration to the tasks at hand, so that you fail to
+        accomplish anything. Watch out for this tendency. Be alive
+        and active but in a very definite and useful manner. Your Destiny will
+        help you decide how. There is a little of the “Bohemian” in
+        your nature and you may become somewhat of a free lance in
+        your religion, politics, or social life as you grow older and
+        make up your mind in your independent way. Even in love
+        affairs you are likely to keep things interesting or introduce the
+        unexpected. Travel is good for you. When you feel yourselt
+        getting restless and critical or irritable, buy something new,
+        take a trip, or make some constructive change which will
+        improve your work and environment. Don’t tear things down or
+        criticize others. Your own restlessness and impatience may be
+        at fault. Refuse to take from others more than is your due or
+        than you can return. Claim your freedom but realize that
+        freedom does not mean breaking the standards of living or being
+        unconventional. It simply means living a fuller, richer life and
+        helping others to do the same. Value your resourcefulness;
+        make it pay you well and use it to bring joy to those you love.
+        Keep in touch with what is going on in the world. You need to
+        keep up-to-date.
+
+        Wear pink, strawberry, claret, wisteria, or cherry as part
+        of your accessories to attract friends.`
       },
       {
-        "description": "The Humanitarian",
-        "detail": "null"
+        "description": "Service",
+        "detail": `Deep down in your heart there is a fine sense of loyalty
+        and a real desire to do good in the world. You are deeply
+        sympathetic and sense the needs of humanity. You will always be
+        somewhat of an idealist and much of your success, as well as
+        many of your disappointments, will be the result of this quality.
+        You are faithful to those you love, clinging to family standards
+        and tradition, even to the point of sacrificing yourself
+        for love, family, or some ideal of service. You are firm in your
+        ideas of right and wrong, developing these convictions more
+        positively the older you grow. You are apt to be frank, even
+        bluntly outspoken when your sense 01 fairness and justice have
+        been violated, but you will fight just as hard for others as for
+        yourself. Your soul longs for beauty, harmony, and companionship,
+        and when you follow your soul urge you are capable
+        of living on a very high plane and inspiring others to do
+        likewise. You should never permit life or experience to rob you of
+        your ideals. Part of your work in the world is to help others,
+        especially the young, to maintain ideals of love, beauty, and
+        justice, and your whole life could be defeated if you allowed
+        anything to darken your faith.
+        You are capable of a deep and lasting affection 'or those
+        you love; but you want to be loved in return and you are not
+        happy unless you have the full measure o> love and appreciation
+        which you believe is your due. At times you are overgenerous
+        and indulgent to the extent that you give more than you
+        should, more than is good for the other fellow. Many of your
+        troubles result from this. You may even blind yourself to the
+        faults ot family, children, or riends, and then suffer when you
+        find they are only human after all. Still, this very quality is part
+        of your charm and is the reason why others love you. Keep a
+        check on your kindness and do not give too much to one or
+        two. It may not be right and end in unhappy experiences or
+        ack of appreciation. Give some of your love to humanity and
+        work for the good of the world as well as for those you
+        personally love. A home and marriage mean a great deal to you
+        and you will make every effort to establish yourself securely in
+        a home and maintain your own comfortable place. Still you are
+        capable of renouncing love for service, because your ideals are
+        so high. You belong to those who beautify life, and your
+        environment should be both artistic and beautiful. You should
+        also surround yourself with friends who are making the world
+        a better place to live in. Children, animals and those who are
+        helpless appeal to you, and you will be loved by them.
+
+        Now and then you can be just a little stubborn about what
+        you want and so determined to carry out your own ideas and
+        plans that you forget to consider the viewpoint of others. Not
+        that you mean to be stubborn, but you sometimes insist that
+        others shall do what you think best because you believe your
+        way is best. Your desire to help can be so strong that you
+        almost smother those you love, who, in turn, are forced to free
+        themselves to find their own good. Try to understand life a
+        little more and realize that people differ in opinions. Learn
+        to assist them to do what they want to do, not just what you think
+        they should do; the more you do for others in a loving way the
+        more popular you will be and the greater usefulness you will
+        find.
+
+        Wear orange, henna, scarlet, heliotrope, or mustard in
+        your accessories to attract friends.`
       },
       {
         "description": "Perfection",
         "detail": `You are naturally selective and discriminating, for deep in
-        your heart there is a desire for the best life has to offer. You aim
-        high and strive for the perfect result. Your sense of the "fitness of
-        things" is tremendously strong and you derive your greatest satisfaction
-        from being sure everything is just right. Your ideals are well defined
-        and, if possible, you refuse to accept anything if it does not measure
-        up to your standards. You are often very quiet in manner and have a
-        great deal of pridel From time to time you experience the desire to
-        get aaway from the excitement of the world, to live a life of solitude
-        and serenity on mental horizons. No matter how active your life is, you
-        should daily take time to be alone and meditate, especially when you
-        have a serious problem on the horizon. Your natural reserve may cause
-        people to consider you distant, proud, and hard to meet. Be careful of
-        your actions and allow others to discover the really generous spirit
-        you have hidden beneath your cool manner.`
+        your heart there is a desire for the best life has to o! er. A keen
+        sense of perfection governs your life and all your undertakings.
+        You aim high and strive for the perfect result. You should
+        never lose sight of your ideals but sometimes you reach for a
+        goal that is almost unattainable, thus making it difficult for
+        others to understand you or to live up to your expectations of
+        them. Your sense of the “fitness of things” is tremendously
+        strong and you derive your greatest satisfaction from being
+        sure everything is ust right. You do not regard any effort to be
+        accurate and certain as a loss of time. You greatly desire
+        knowledge and want to know the reason why. You are not a person
+        to accept things at their surface value, but seek to prove, test,
+        and understand the motives, causes, and underlying principles
+        before you accept them or make them a part of your life. Your
+        ideals are well defined and, if possible, you refuse to accept
+        anything—friendship, opportunity, or environment—if it does
+        not measure up to your standards.
+
+        You have a deep intuitive feeling, and even though you
+        may seem to be analytical and mental, you sense and feel hidden
+        values, higher principles, spiritual and occult standards
+        with which to measure life. You should accept them and use
+        them in your everyday affairs. If you do they will make you
+        outstanding, if not to the world, at least in your circle of
+        activity, enabling you to uncover and develop the hidden laws of
+        life for the improvement of humanity. Your desire for the best
+        makes you particular about your associations. You are often
+        very quiet in manner and have a great deal of pride. From time
+        to time you experience the desire to get away from the jazz and
+        excitement of the world, to live a life of solitude and serenity
+        on mental horizons. No matter how active your life is, you
+        should daily make it a practice to take time out to rest, relax
+        and to be alone, to think, study and meditate, especially when
+        you have a serious problem to meet. By so doing you will make
+        fewer mistakes and discover your inner soul guidance.
+        Your natural reserve may cause people to consider you
+        distant, proud and hard to meet. Your faculty of analysis may
+        make you appear cool, calculating and suspicious. So be careful
+        of your actions and allow others to discover the really generous
+        spirit you have hidden beneath a seemingly cool manner,
+        especially in love and marriage. You can be exacting and demand
+        explanations from others which may bring about misunderstanding
+        and separation. When others misunderstand you,
+        conscientiously seek to overcome the misunderstanding. At
+        heart, you are really a visionary person and you love the odd,
+        the mysterious and the unusual. Keep a broad faith in life itself
+        and in people, but do not permit your quiet, reserved nature to
+        suppress you. Go forth with dignity and pride, but be kind and
+        forgiving and value your urge to get the best out of life. Let he
+        charm and distinction and cleverness which you inherently possess
+        lift you to a specialized and outstanding position in life.
+        When you realize your desires, be sure to share with others, if
+        you want to find true happiness.
+
+        Wear purple, brick, or pearl as part of your accessories to
+        win friends. `
       },
       {
         "description": "Accomplishment",
-        "detail": `Deep in your heart there is a great deal of serious ambition.
-        You want to get results and have such inner fire and force that you are
-        not happy unless you are doing things in a big way. You have the inner
-        stamina and courage to overcome great difficulties and your latent
-        ability to surmount obstacles is splendid. This courage and energy will
-        eventually take you to the top of your chosen line, as you learn not to
-        work for personal power alone, but for worthwhile purposes. You have the
-        right to money and your abaliity should bring you success in the lines
-        indicated by your Destiny and Vocation, but should you make money your
-        only goal, you are likely to meet keen disappointment. You understand
-        the laws of life and your ability to master your moods and to cooperate
-        with others are the secret of your success in the business world. Life
-        expects more out of you than of the average individual. So search your
-        soul for the standards which will not fail you.`
+        "detail": `Deep in your heart there is a great deal of serious
+        ambition. You want to get resuits and have such inner fire and force
+        that you are not happy unless you are doing things in a big
+        way. Human nature generally proves interesting to you, and
+        while you are not exactly a humanitarian, you do try to improve
+        life and conditions to get the best out of everything. You
+        have the inner stamina and courage to overcome great difficulties
+        and your latent ability to surmount obstacles is splendid.
+        Life, however, will not always be easy for you, for you are apt
+        to make it hard for yourself, striving or results until you
+        overestimate your ability, or to aim so high disappointments are
+        bound to follow. This courage and energy will eventually take
+        you to the top in your chosen line, as you learn not to work for
+        personal power alone, but for worthwhile purposes.
+        Your urge is to do big things and you are more interested
+        in plans that can be carried out on a large scale, dealing with
+        groups, organizations, etc., than through small activities and
+        enterprises. You are somewhat of an organizer at heart, like to
+        direct and supervise undertakings, do not find happiness in a
+        subordinate position, and have a desire for money, or at least
+        the authority it brings. You have the right to money and your
+        ability should bring you success in the lines indicated by your
+        Destiny and Vocation, but should you make money your only
+        goal, you are likely to meet keen disappointment or experience
+        ups and downs in life very difficult to control. When you follow
+        your true soul urge, you will sincerely strive for mastery on
+        all p anes or life; deep within your heart there is a
+        philosophical trend of thought and feeling.
+
+        You should study psychology and religion philosophically
+        for you possess latent powers to analyze or to do research work
+        in the field oi human emotion and feeling. This will help you
+        to overcome personal prejudices which otherwise might stand
+        in the way of your real success in life. If you find your mind
+        and heart filled with prejudice, resistance, or jealousy, strive
+        for the impersonal point of view. Self-control will lead you to
+        the front and give you the right to supervise and command
+        other people. You should not expect too much appreciation
+        from people. They may not possess the same powers o; selfmastery
+        you do. It is up to you to see both sides of the question.
+        Your understanding of the laws of life and your ability to
+        master your moods and to cooperate with others are the secret
+        of your success in the business world. Life expects more of you
+        than of the average individual. So search your soul for the
+        standards which will not fail you.
+
+        Be careful that you do not take the lead too positively in
+        your love affairs for you can unconsciously drive others and be
+        too forceful. Sometimes you are too busy working out a plan
+        or an idea to be a good “sweetie,” or again you may be too
+        self-sufficient, causing others to experience disillusionment.
+
+        Wear canary, buff, tan, opal, or ivory as part of your
+        accessories to win friends. `
       },
       {
         "description": "The Beautifier",
-        "detail": "null"
+        "detail": `You are deeply compassionate and impressionable. You
+        love beauty and harmony and are capable of an impersonal attitude
+        of mind. You can sense the Brotherhood of Man, and, if
+        life permitted, you would love to help the whole world. Your
+        ideals are high and you have a tremendous power to influence
+        others for good when you make your ideals a reality in your
+        own life. Your sense o s perfection is so high that you are o 'ten
+        discouraged if you cannot realize your ideals or find them in
+        others. You should never allow these moods to continue, for
+        there is something so fine, so warm and all-embracing in your
+        soul that you can touch the cosmic mind and heart if you aspire
+        to Divine love. Your deep, intuitive understanding enables
+        you to reach the hearts of all people, and through expressing
+        love, compassion, tolerance, and philanthropy you become one
+        of the chosen of the earth. This means that forgiveness, patience,
+        and sympathy, even for the lowest, should always flower
+        in your heart.
+
+        Being essentially emotional, many times you will be torn
+        to pieces by your feelings and the struggle between your higher
+        self and your personal desires and ambitions. You will always
+        strive to reach the goal of beauty, love, and service, but again
+        the desire for human love, sympathy, and admiration will fill
+        your mind, pulling you from your pinnacle of generosity and
+        tolerance. You realize so keenly the glory of love and service
+        that you sincerely seek to attain true perfection, but again you
+        may allow yourself to become so involved in human emotions
+        that you almost crucify your soui and cause confusion in the
+        lives of those who love you. You can inspire ideals in others
+        and lift them to great heights of perfection, but you need to
+        control your own emotions, for they can ruin you or make you
+        too sensitive for your own good unless turned to creative
+        endeavor of universal nature. Follow the beauty of your own soul
+        at all times.
+
+        You are a dreamer of dreams but you have a dynamic, inner
+        force and can materialize your dreams of love and success
+        when you remain true to your inner desire for beauty, harmony,
+        and service. Never be disappointed, moody, or critical when
+        you discover that you are only human like the rest of the
+        world; for there is a timid, vacillating side to your nature, and
+        should you lose faith in yourself or in life, or be afraid to stand
+        up for your ideals, you could be very unhappy. Being naturally
+        generous and forgiving, and desirous o^ doing good in the
+        world, you may impulsively enter into associations and
+        undertakings which you do not ully understand, and find yourself
+        imposed upon. Just be wiser next time and temper your love of
+        service w'ith reason. At heart you are romantic and you are
+        capable of great intensity in love. But romance can quickly fade if
+        your mate is not of the same esthetic nature, ‘or you abhor the
+        unlovely, discordant, and inharmonious. Don’t kill out the
+        drama and glamor of your soul. Live up to your ideals.
+
+        Wear a lot of color, especially the pastel shades, if you
+        want to attract friends. `
       },
     ]
 
@@ -523,54 +1530,98 @@ export class NumerologyHelper {
   getPersonalityDescription = (number) => {
     const values = [
       {
-        "description": "The Leader",
-        "detail": ``
+        "description": "Inspiring",
+        "detail": `The One should always be outstanding — not forceful or
+        aggressive, but dignified and correct in lines and detail. Even a
+        short person with a number One Personality should never be
+        overweight. Straight lines, loose, but well-fitted are right.
+        Number One Personality is a likeable personality and often
+        very persuasive in manner. The number One should wear and
+        also furnish the home in bright and cheerful colors. `
       },
       {
-        "description": "The Peacemaker",
-        "detail": "null"
+        "description": "Neat",
+        "detail": `The Two should always be neat and make cleanliness
+        important—and generally does. The number Two may even be
+        fussy about having everything exact in detail. A pleasing
+        personality with gentle manner is the number Two. A knack of
+        wearing clothes can be cultivated, but loud or showy apparel
+        should be put aside for soft, flowing, easy-to-wear, neat, and
+        shining clothing. The number Two Personality should study
+        styles and adapt them to its own personality and not be plain
+        or colorless. `
       },
       {
         "description": "Friendly",
-          "detail": `You are friendly and easy to talk to. Being of artistic
-          nature, you like to wear jewelry and more fancy clothing. You should
-          not overdress or wear extreme styles, but should be attractively
-          dressed - prettily and in good materials.`
+        "detail": `The Three is generally friendly and easy to talk to. Being
+        of artistic nature, the Three likes to wear jewelry and more
+        fancy clothing with ribbons and bows. The number Three
+        should not overdress or wear extreme styles, but should be
+        attractively dressed—prettily and in good materials. `
       },
       {
-        "description": "The Organizer",
-        "detail": "null"
+        "description": "Practical",
+        "detail": `The Four looks well in tailor-made styles, combining the
+        straight fines of the number One and the neatness of the number
+        Two. Good material of durable wearing qualities should be
+        chosen, for the practical qualities of the number Four show in
+        personality as well as in the other sides of the character, he
+        number Four should never be overdressed. `
       },
       {
-        "description": "The Progressive",
-        "detail": "null"
+        "description": "Innovative",
+        "detail": `The Five is inclined to be up-to-date at all times, versatile
+        in selection but may go to extremes, just to be daring and in
+        the limelight. The Five Personality should not deliberately be
+        flashy and needs to realize the value of a good personality,
+        stylishly expressed, modern, and fitting the occasion.`
       },
       {
         "description": "Parental",
-        "detail": `Your bearing is generally sympathetic and inspires
-        confidence - the motherly or fatherly type. You often fail to give
-        importance to looks or clothing, but you should always be well
-        dressed and give thought to the way you look.`
+        "detail": `The Six often fails to give importance to looks or clothing.
+        The bearing is generally sympathetic and inspires confidence—
+        the mother y and fatherly type. The number Six is not style-conscious
+        as a rule but enjoys good clothes of good material. Six
+        likes to be comfortable in easy-to-wear clothing. The number
+        Six should always be well dressed and give thought to the way
+        it looks and is dressed but cannot afford to be overweight. `
       },
       {
         "description": "Close-Knit",
-        "detail": `You are likeable, friendly, and a good talker when well
-        acquainted, but you may seem somewhat aloof in manner and appear hard
-        to know or meet. Good style is important - straight lines, with touches
-        of sparkle and dash. Confidence comes to you through being well-dressed
-        and in good clothing, even expensive materials`
+        "detail": `The Seven gains through a well-dressed and well-groomed
+        personality. Likeable, friendly, and a good talker when well
+        acquainted, it may be somewhat aloof in manner and appear
+        hard to know or meet. Good style is important—straight lines,
+        with touches of sparkle and dash. A colorful, although correct,
+        personality means much to the Seven. Confidence comes to the
+        Seven through being well dressed and in good clothing, even
+        expensive materials. `
       },
       {
-        "description": "The Dynamo",
-        "detail": "null"
+        "description": "Impressive",
+        "detail": `The Eight should always be well dressed and present a
+        successful-appearing personality. It likes good materials—plaids,
+        tweeds, and heavier types of clothing (sports clothes). There is
+        a touch of showman in the Eight and it is generally not overlooked
+        in business association or social gatherings. The Eight
+        Personality is friendly, persuasive, and positive in manner and
+        speech.`
       },
       {
         "description": "Good-Fellow",
-        "detail": `You gain many friends from your warm and generous manner. You
-        can influence others because of your pleasing manner, but can be distant
-        and abstract when not interested. You sometimes appear to lack in
-        forcefulness and attraction, although as a rule you have a magnetic
-        personality.`
+        "detail": `The Nine should never wear black, but often does, feeling
+        well dressed according to fashion in black. The number Nine is
+        all-inclusive and gains through the use of color in business and
+        as the expression of the personality. A “good-fellow” manner
+        is characteristic of the Nine Personality and it gains many
+        friends through a warm and generous manner. It can look
+        young a long time if care is taken of skin and attention given to
+        the posture. It may cultivate careless dress, for it, too, like the
+        Six , wants to be comfortable. It can influence others because
+        of its pleasing manner, but it can be distant and abstract when
+        not interested. It sometimes appears to lack in forcefulness and
+        attraction, although as a rule the number Nine has a magnetic
+        Personality. `
       },
     ]
 
@@ -580,58 +1631,105 @@ export class NumerologyHelper {
   getRealityDescription = (number) => {
     const values = [
       {
-        "description": "The Leader",
-        "detail": ``
+        "description": "Independence",
+        "detail": `The talents, abilities, interests, and individuality of the
+        number One will support the latter days of life. The individual
+        will be very independent, very clever, and find originality of
+        thoughts: giving opportunity for leadership. The possibility of
+        becoming very set and fixed in opinions may cause problems in
+        association.`
       },
       {
         "description": "Diplomacy",
-        "detail": `The field of diplomacy is open to you. The talent for getting
-        on with others and bringing many together for a common good in public
-        works and friendly association means success. The arts, music, museums,
-        libraries give pleasure and opportunity.`
+        "detail": `The field of diplomacy is open to the number Two. The
+        talent for getting on with others and bringing many together
+        for a common good in public works and friendly association
+        means success. The arts, music, museums, libraries give
+        pleasure and opportunity. The Two is inclined to turn to religion,
+        spiritual work, and teachings. A beautiful humility, born of
+        the awareness of “that something” called God, attracts people
+        and opportunity to touch the minds and hearts of mankind. `
       },
       {
         "description": "Self-Expression",
-        "detail": `The opportunity for a rich, full life is present, the
-        privilege of true self-expression, perhaps greater than at any time
-        during your life. Even if you had not previously been able to express
-        the thoughts and feelings in words, music, gaiety or along any line of
-        creative interest, you will be surprised at the growth and development
-        which come in this respect.`
+        "detail": `The opportunity for a rich, full life is present, the privilege
+        of true sel'-expression, perhaps greater than at any time during
+        the life. Even the character who has not previously been able to
+        express the thoughts and feelings in words, music, gaiety or
+        along any line of creative interest will be surprised at the
+        growth and development which come in this respect. To scatter
+        the forces and talents in self-indulgence at this time of life is
+        to waste the opportunity for a wonderful use of the coveted
+        power of imagination. `
       },
       {
-        "description": "The Organizer",
-        "detail": "null"
+        "description": "Accomplishment",
+        "detail": `The opportunity to actually accomplish and put into form
+        many of the ideas not before possible is present. There will be
+        work to do and many practical circumstances to meet in order
+        that a foundation may be placed to build upon. Religious,
+        scientific, and educational interests can support and build
+        a useful life. System, order, and organization are important and
+        must be added to the activities. There is a work to be done in
+        the latter days of life. `
       },
       {
-        "description": "The Progressive",
-        "detail": "null"
+        "description": "Experience",
+        "detail": `This does not promise retirement and indicates an active
+        latter days of life. It is not a dull period, gives opportunity for
+        travel, a variety of experiences, and a great deal of freedom of
+        action and thought. All progressive, forward-moving activities
+        for the advancement and improvement of civic living give
+        opportunity. Too many irons in the fire can lead to uncertainty
+        and scattered forces. Seek a worthwhile work along lines of
+        public administration. `
       },
       {
-        "description": "The Humanitarian",
-        "detail": "null"
+        "description": "Service",
+        "detail": `The latter days for the number Six should be filled with
+        useful endeavor having to do with humanitarian service.
+        Through this service, love and protection will be the reward for
+        the latter days of life. The best things in life, comfort and
+        financial support, will be present when the thoughts are for the
+        good o others in a broad and impersonal manner. Duty and
+        responsibility will be there also, but the means to do and the
+        accomplishment can be easily attained. `
       },
       {
-        "description": "The Educator",
-        "detail": "null"
+        "description": "Wisdom",
+        "detail": `The right to retire and to follow the mental interests is
+        present. Because the Seven has specialized knowledge, gained
+        through the years, others will seek this knowledge, wisdom,
+        and understanding. Opportunity lies in the field of education,
+        science, occult thinking or study; and time may be given to
+        writing, invention, and to the unusual, even odd, lines
+        of endeavor. The desire may be to withdraw from the crowd and to
+        become absorbed in some introvert line of activity. `
       },
       {
-        "description": "Position, Authority",
-        "detail": `The promise of recognition, position, and authority for the
-        latter days of like is present. Life will demand good character,
-        self-discipline, courage, and executive ability. Research, investigation,
-        counseling, and advisory positions give usefulness and personal
+        "description": "Authority",
+        "detail": `The promise of recognition, position, and authority for
+        the latter days of life is present. Life will demand good
+        character, self-discipline, courage, and executive ability. Through
+        this, opportunity to supervise, regulate, and direct the affairs
+        of others will be present. The care of property and land may be
+        part of the task of supervision. Research, investigation,
+        counseling, advisory positions give usefulness and personal
         satisfaction. Philosophical thought and interest add strength to the
-        character and undertakings.`
+        character and undertakings. `
       },
       {
         "description": "Philanthropy",
-        "detail": `The world of philanthropy is the reward for your latter days
-        of life. Service to mankind and the realization of the brotherhood of
-        man is part of the reward. To be able to live above jealousies, fears,
-        and greed of mankind is part of the victory of the latter days. The
-        world of drama, art, literature, beauty in all its forms gives personal
-        and financial reward.`
+        "detail": `The world of philanthropy is the reward of the number
+        Nine Reality for the latter days of life. Service to mankind and 
+        the realization of the brotherhood of man is part of the reward.
+        To be able to live above the jealousies, fears, and greed
+        of mankind is part of the victory of the latter days. The world
+        of drama, art, literature, beauty in all its forms gives personal
+        and financial reward. To live personally and to desire only
+        personal love is to miss the goal of love and companionship which
+        will come through work done for all people, regardless of race,
+        creed, or culture. `
       },
     ]
 
