@@ -1,7 +1,15 @@
 import React, { Fragment } from 'react';
 import { Field, reduxForm } from 'redux-form';
 // import { Form, Header } from 'semantic-ui-react';
-import { Box, Button, Form, FormField, Select, TextInput } from 'grommet';
+import {
+  Box,
+  Button,
+  Form,
+  FormField,
+  FormFields,
+  Select,
+  TextInput
+} from 'grommet';
 
 class NewReading extends React.Component {
 
@@ -34,7 +42,6 @@ class NewReading extends React.Component {
     //   placeholder={field.placeholder}
     //   value={field.input.value}
     // />
-    <Box align="center" pad="medium">
       <FormField label={field.label} htmlFor="select" {...this.props}>
         <Select
           placeholder={field.placeholder}
@@ -44,180 +51,176 @@ class NewReading extends React.Component {
           name={field.input.name}
           />
       </FormField>
-    </Box>
   );
 
-  renderInput = ({ input, label, placeholder, meta }) => {
+  renderInput = ({ input, label, placeholder, value, meta }) => {
     const className = `field ${meta.error && meta.touched ? 'error': ''}`;
-    console.log(meta.error);
+
     return (
       // <div className={className}>
       //   <label>{label}</label>
       //   <input {...input} placeholder={placeholder} autoComplete='off' />
       //   {this.renderError(meta)}
       // </div>
-      <Box align="center" pad="medium">
         <FormField
           label={label}
           error={meta.error && meta.touched ? meta.error : null}
           htmlFor="text-input"
+          value={value}
           {...this.props}
           >
           <TextInput placeholder={placeholder} />
         </FormField>
-      </Box>
     )
   }
 
   onSubmit = formValues => {
-    this.props.onSubmit(formValues);
+    console.log(formValues);
+    // this.props.onSubmit(formValues);
+  }
+
+  render = () => {
+    return (
+      <Form onSubmit={this.props.handleSubmit(this.onSubmit.bind(this))}>
+        <Field
+          component={this.renderInput}
+          label="First Name"
+          name="firstName"
+          placeholder="Enter First Name"
+          />
+      </Form>
+    )
   }
 
   // render() {
   //   return (
   //     <Fragment>
-  //       <Form onSubmit={this.props.handleSubmit(this.onSubmit)}>
-  //         <Field
-  //           component={this.renderInput}
-  //           label="First Name"
-  //           name="firstName"
-  //           placeholder="Enter First Name"
+  //       <h1>New Reading</h1>
+  //       <Form onSubmit={this.props.handleSubmit(this.onSubmit.bind(this))}>
+  //         <Box direction="row" justify="between">
+  //           <Field
+  //             component={this.renderInput}
+  //             label="First Name"
+  //             name="firstName"
+  //             placeholder="Enter First Name"
+  //             />
+  //           <Field
+  //             component={this.renderInput}
+  //             label="Middle Name"
+  //             name="middleName"
+  //             placeholder="Enter Middle Name"
+  //             />
+  //           <Field
+  //             component={this.renderInput}
+  //             label="Last Name"
+  //             name="lastName"
+  //             placeholder="Enter Last Name"
+  //             />
+  //         </Box>
+  //         <Box direction="row">
+  //           <Field
+  //             component={this.renderSelect}
+  //             label="Suffix"
+  //             name="suffix"
+  //             placeholder="Enter Suffix"
+  //             options={[
+  //               "",
+  //               "I",
+  //               "II",
+  //               "III",
+  //               "IV",
+  //               "V",
+  //               "VI",
+  //               "VII",
+  //               "VIII",
+  //             ]}
   //           />
-  //         <Button type="reset" label="Reset" />
-  //         <Button type="submit" label="Read Name" primary />
+  //         </Box>
+  //         <Box direction="row">
+  //           <Field
+  //             component={this.renderSelect}
+  //             label="Month"
+  //             name="birthMonth"
+  //             placeholder="Birth Month"
+  //             options={[
+  //               "January",
+  //               "February",
+  //               "March",
+  //               "April",
+  //               "May",
+  //               "June",
+  //               "July",
+  //               "August",
+  //               "September",
+  //               "October",
+  //               "November",
+  //               "December",
+  //             ]}
+  //           />
+  //           <Field
+  //             component={this.renderInput}
+  //             label="Birth Day"
+  //             name="birthDay"
+  //             placeholder="Birth Day"
+  //             />
+  //           <Field
+  //             component={this.renderInput}
+  //             label="Birth Year"
+  //             name="birthYear"
+  //             placeholder="Birth Year"
+  //             />
+  //         </Box>
+  //         <Box direction="row" gap="small">
+  //           <Button type="reset" label="Reset" />
+  //           <Button type="submit" label="Read Name" primary={true} />
+  //         </Box>
   //       </Form>
   //     </Fragment>
   //   )
   // }
-
-  render() {
-    return (
-      <Fragment>
-        <h1>New Reading</h1>
-        <Form onSubmit={this.props.handleSubmit(this.onSubmit)}>
-          <Box direction="row" justify="between">
-            <Field
-              component={this.renderInput}
-              label="First Name"
-              name="firstName"
-              placeholder="Enter First Name"
-              />
-            <Field
-              component={this.renderInput}
-              label="Middle Name"
-              name="middleName"
-              placeholder="Enter Middle Name"
-              />
-            <Field
-              component={this.renderInput}
-              label="Last Name"
-              name="lastName"
-              placeholder="Enter Last Name"
-              />
-          </Box>
-          <Box direction="row">
-            <Field
-              component={this.renderSelect}
-              label="Suffix"
-              name="suffix"
-              placeholder="Enter Suffix"
-              options={[
-                "",
-                "I",
-                "II",
-                "III",
-                "IV",
-                "V",
-                "VI",
-                "VII",
-                "VIII",
-              ]}
-            />
-          </Box>
-          <Box direction="row">
-            <Field
-              component={this.renderSelect}
-              label="Month"
-              name="birthMonth"
-              placeholder="Birth Month"
-              options={[
-                "January",
-                "February",
-                "March",
-                "April",
-                "May",
-                "June",
-                "July",
-                "August",
-                "September",
-                "October",
-                "November",
-                "December",
-              ]}
-            />
-            <Field
-              component={this.renderInput}
-              label="Birth Day"
-              name="birthDay"
-              placeholder="Birth Day"
-              />
-            <Field
-              component={this.renderInput}
-              label="Birth Year"
-              name="birthYear"
-              placeholder="Birth Year"
-              />
-          </Box>
-          <Box direction="row" gap="small">
-            <Button type="reset" label="Reset" />
-            <Button type="submit" label="Read Name" primary />
-          </Box>
-        </Form>
-      </Fragment>
-    )
-  }
 }
 
 
 
 const validate = formValues => {
-  const errors = {};
-  if (!formValues.firstName) {
-    errors.firstName = "Please enter a first name";
-  }
-  if (!formValues.middleName) {
-    errors.middleName = "Please enter a middle name";
-  }
-  if (!formValues.lastName) {
-    errors.lastName = "Please enter a last name";
-  }
-  if (!formValues.birthDay) {
-    errors.birthDay = "Enter a day between 1-31";
-  }
-  if (isNaN(parseInt(formValues.birthDay))) {
-    errors.birthDay = "Enter an integer"
-  }
-  if (!isNaN(parseInt(formValues.birthDay)) && parseInt(formValues.birthDay) >  31) {
-    errors.birthDay = "Enter a day between 1-31";
-  }
-  if (!formValues.birthYear) {
-    errors.birthYear = "Enter a birth year";
-  }
-  if (isNaN(parseInt(formValues.birthYear))) {
-    errors.birthYear = "Enter an integer"
-  }
-  if (formValues.birthYear && formValues.birthMonth && formValues.birthDay) {
-    let year = parseInt(formValues.birthYear);
-    let month = parseInt(formValues.birthMonth);
-    let day = parseInt(formValues.birthDay);
-    if (!isNaN(year) && !isNaN(month) && !isNaN(day)) {
-      const date = new Date(year, month, day);
-      if (day !== date.getDate()) {
-        errors.birthDay = "Enter valid day for month"
-      }
-    }
-  }
-  return errors;
+  console.log('validate', JSON.stringify(formValues, null, 2));
+  // const errors = {};
+  // if (!formValues.firstName) {
+  //   errors.firstName = "Please enter a first name";
+  // }
+  // if (!formValues.middleName) {
+  //   errors.middleName = "Please enter a middle name";
+  // }
+  // if (!formValues.lastName) {
+  //   errors.lastName = "Please enter a last name";
+  // }
+  // if (!formValues.birthDay) {
+  //   errors.birthDay = "Enter a day between 1-31";
+  // }
+  // if (isNaN(parseInt(formValues.birthDay))) {
+  //   errors.birthDay = "Enter an integer"
+  // }
+  // if (!isNaN(parseInt(formValues.birthDay)) && parseInt(formValues.birthDay) >  31) {
+  //   errors.birthDay = "Enter a day between 1-31";
+  // }
+  // if (!formValues.birthYear) {
+  //   errors.birthYear = "Enter a birth year";
+  // }
+  // if (isNaN(parseInt(formValues.birthYear))) {
+  //   errors.birthYear = "Enter an integer"
+  // }
+  // if (formValues.birthYear && formValues.birthMonth && formValues.birthDay) {
+  //   let year = parseInt(formValues.birthYear);
+  //   let month = parseInt(formValues.birthMonth);
+  //   let day = parseInt(formValues.birthDay);
+  //   if (!isNaN(year) && !isNaN(month) && !isNaN(day)) {
+  //     const date = new Date(year, month, day);
+  //     if (day !== date.getDate()) {
+  //       errors.birthDay = "Enter valid day for month"
+  //     }
+  //   }
+  // }
+  // return errors;
 }
 
 export default reduxForm({
