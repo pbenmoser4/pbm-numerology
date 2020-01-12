@@ -13,26 +13,6 @@ import {
 
 class NewReading extends React.Component {
 
-  renderError = ({error, touched}) => {
-    if (touched && error) {
-      return (
-        <div className="error message" style={{color:'#9f3a38'}}>
-          <div>{error}</div>
-        </div>
-      )
-    }
-  }
-
-  renderDateError = (dateError) => {
-    if (dateError) {
-      return (
-        <div className="ui error message">
-          <div>{dateError}</div>
-        </div>
-      )
-    }
-  }
-
   renderSelect = field => (
     // <Form.Select
     //   label={field.label}
@@ -53,7 +33,7 @@ class NewReading extends React.Component {
       </FormField>
   );
 
-  renderInput = ({ input, label, placeholder, value, meta }) => {
+  renderInput = ({ input, id, label, placeholder, meta }) => {
     const className = `field ${meta.error && meta.touched ? 'error': ''}`;
 
     return (
@@ -65,11 +45,10 @@ class NewReading extends React.Component {
         <FormField
           label={label}
           error={meta.error && meta.touched ? meta.error : null}
-          htmlFor="text-input"
-          value={value}
+          htmlFor={label}
           {...this.props}
           >
-          <TextInput placeholder={placeholder} />
+          <TextInput placeholder={placeholder} {...input}/>
         </FormField>
     )
   }
@@ -81,13 +60,20 @@ class NewReading extends React.Component {
 
   render = () => {
     return (
-      <Form onSubmit={this.props.handleSubmit(this.onSubmit.bind(this))}>
+      <Form onSubmit={this.props.handleSubmit(this.onSubmit)}>
         <Field
           component={this.renderInput}
           label="First Name"
           name="firstName"
           placeholder="Enter First Name"
           />
+        <Field
+          component={this.renderInput}
+          label="something"
+          name="something"
+          placeholder="something"
+          />
+        <Button type="submit" label="Submit" primary />
       </Form>
     )
   }
