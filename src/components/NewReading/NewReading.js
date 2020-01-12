@@ -19,10 +19,10 @@ const NewReading = props => {
       birthDay
     } = formValues;
     const name = [
-      firstName.trim(),
-      middleName.trim(),
-      lastName.trim(), 
-      suffix
+      firstName ? firstName.trim() : "",
+      middleName ? middleName.trim() : "",
+      lastName ? lastName.trim(): "",
+      suffix ? suffix : ""
     ].join(' ').trim();
     const birthday = new Date(parseInt(birthYear), parseInt(birthMonth), parseInt(birthDay));
 

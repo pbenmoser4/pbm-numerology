@@ -1,6 +1,7 @@
 import React, { Fragment } from 'react';
 import { Field, reduxForm } from 'redux-form';
-import { Form, Header } from 'semantic-ui-react';
+// import { Form, Header } from 'semantic-ui-react';
+import { Box, Button, Form, FormField, Select, TextInput } from 'grommet';
 
 class NewReading extends React.Component {
 
@@ -25,24 +26,46 @@ class NewReading extends React.Component {
   }
 
   renderSelect = field => (
-    <Form.Select
-      label={field.label}
-      name={field.input.name}
-      onChange={(e, { value }) => field.input.onChange(value)}
-      options={field.options}
-      placeholder={field.placeholder}
-      value={field.input.value}
-    />
+    // <Form.Select
+    //   label={field.label}
+    //   name={field.input.name}
+    //   onChange={(e, { value }) => field.input.onChange(value)}
+    //   options={field.options}
+    //   placeholder={field.placeholder}
+    //   value={field.input.value}
+    // />
+    <Box align="center" pad="medium">
+      <FormField label={field.label} htmlFor="select" {...this.props}>
+        <Select
+          placeholder={field.placeholder}
+          options={field.options}
+          value={field.input.value}
+          onChange={({ value }) => field.input.onChange(value)}
+          name={field.input.name}
+          />
+      </FormField>
+    </Box>
   );
 
   renderInput = ({ input, label, placeholder, meta }) => {
     const className = `field ${meta.error && meta.touched ? 'error': ''}`;
+    console.log(meta.error);
     return (
-      <div className={className}>
-        <label>{label}</label>
-        <input {...input} placeholder={placeholder} autoComplete='off' />
-        {this.renderError(meta)}
-      </div>
+      // <div className={className}>
+      //   <label>{label}</label>
+      //   <input {...input} placeholder={placeholder} autoComplete='off' />
+      //   {this.renderError(meta)}
+      // </div>
+      <Box align="center" pad="medium">
+        <FormField
+          label={label}
+          error={meta.error && meta.touched ? meta.error : null}
+          htmlFor="text-input"
+          {...this.props}
+          >
+          <TextInput placeholder={placeholder} />
+        </FormField>
+      </Box>
     )
   }
 
@@ -50,12 +73,29 @@ class NewReading extends React.Component {
     this.props.onSubmit(formValues);
   }
 
+  // render() {
+  //   return (
+  //     <Fragment>
+  //       <Form onSubmit={this.props.handleSubmit(this.onSubmit)}>
+  //         <Field
+  //           component={this.renderInput}
+  //           label="First Name"
+  //           name="firstName"
+  //           placeholder="Enter First Name"
+  //           />
+  //         <Button type="reset" label="Reset" />
+  //         <Button type="submit" label="Read Name" primary />
+  //       </Form>
+  //     </Fragment>
+  //   )
+  // }
+
   render() {
     return (
       <Fragment>
-        <Header as="h1">Create a New Reading</Header>
-        <Form onSubmit={this.props.handleSubmit(this.onSubmit)} className="error">
-          <Form.Group widths="equal">
+        <h1>New Reading</h1>
+        <Form onSubmit={this.props.handleSubmit(this.onSubmit)}>
+          <Box direction="row" justify="between">
             <Field
               component={this.renderInput}
               label="First Name"
@@ -74,45 +114,45 @@ class NewReading extends React.Component {
               name="lastName"
               placeholder="Enter Last Name"
               />
-          </Form.Group>
-          <Form.Group width={2}>
+          </Box>
+          <Box direction="row">
             <Field
               component={this.renderSelect}
               label="Suffix"
               name="suffix"
               placeholder="Enter Suffix"
               options={[
-                {key:"0", text:"", value:""},
-                {key:"1", text:"I", value:"I"},
-                {key:"2", text:"II", value:"II"},
-                {key:"3", text:"III", value:"III"},
-                {key:"4", text:"IV", value:"IV"},
-                {key:"5", text:"V", value:"V"},
-                {key:"6", text:"VI", value:"VI"},
-                {key:"7", text:"VII", value:"VII"},
-                {key:"8", text:"VIII", value:"VIII"},
+                "",
+                "I",
+                "II",
+                "III",
+                "IV",
+                "V",
+                "VI",
+                "VII",
+                "VIII",
               ]}
             />
-          </Form.Group>
-          <Form.Group>
+          </Box>
+          <Box direction="row">
             <Field
               component={this.renderSelect}
               label="Month"
               name="birthMonth"
               placeholder="Birth Month"
               options={[
-                {key:"1", text:"January", value:0},
-                {key:"2", text:"February", value:1},
-                {key:"3", text:"March", value:2},
-                {key:"4", text:"April", value:3},
-                {key:"5", text:"May", value:4},
-                {key:"6", text:"June", value:5},
-                {key:"7", text:"July", value:6},
-                {key:"8", text:"August", value:7},
-                {key:"9", text:"September", value:8},
-                {key:"10", text:"October", value:9},
-                {key:"11", text:"November", value:10},
-                {key:"12", text:"December", value:11},
+                "January",
+                "February",
+                "March",
+                "April",
+                "May",
+                "June",
+                "July",
+                "August",
+                "September",
+                "October",
+                "November",
+                "December",
               ]}
             />
             <Field
@@ -127,11 +167,11 @@ class NewReading extends React.Component {
               name="birthYear"
               placeholder="Birth Year"
               />
-          </Form.Group>
-          <Form.Group>
-            <Form.Button primary>Analyze Name</Form.Button>
-            <Form.Button onClick={this.props.reset}>Reset Form</Form.Button>
-          </Form.Group>
+          </Box>
+          <Box direction="row" gap="small">
+            <Button type="reset" label="Reset" />
+            <Button type="submit" label="Read Name" primary />
+          </Box>
         </Form>
       </Fragment>
     )
